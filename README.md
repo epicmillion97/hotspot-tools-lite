@@ -5,10 +5,18 @@ As of 21 May 2020, this code will no longer be maintained. Please see v2 instead
 # Install
 
      git clone https://github.com/km4ack/hotspot-tools.git $HOME/hotspot-tools 
-
+     
      cd ~/hotspot-tools
-
-     bash setup
+     
+     chmod +x autohotspotN-setup
+     
+     ./autohotspotN-setup
+     
+     sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+     ## remove the extra network interface
+     
+     ./hotspot-menu
+    
 
 # Tools in Script
 
