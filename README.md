@@ -1,10 +1,10 @@
-# Hotspot-Tools by KM4ACK
+# Hotspot-Tools by KM4ACK Edited by EPIC
 
 As of 21 May 2020, this code will no longer be maintained. Please see v2 instead https://github.com/km4ack/hotspot-tools2
 
 # Install
 
-     git clone https://github.com/km4ack/hotspot-tools.git $HOME/hotspot-tools 
+     git clone https://github.com/epicmillion97/hotspot-tools-lite.git $HOME/hotspot-tools 
      
      cd ~/hotspot-tools
      
