@@ -16,6 +16,10 @@ As of 21 May 2020, this code will no longer be maintained. Please see v2 instead
      ## remove the extra network interface
      
      ./hotspot-menu
+
+     add this crontab -e
+     */5 * * * * sudo /usr/bin/autohotspotN
+
     
 
 # Tools in Script
